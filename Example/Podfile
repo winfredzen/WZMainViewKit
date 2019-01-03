@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'WZMainViewKit_Example' do
+  pod 'WZMainViewKit', :path => '../'
+
+  target 'WZMainViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
