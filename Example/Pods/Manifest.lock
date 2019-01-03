@@ -1,0 +1,16 @@
+PODS:
+  - WZMainViewKit (0.1.0)
+
+DEPENDENCIES:
+  - WZMainViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  WZMainViewKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZMainViewKit: 39b21f613871b095cb94fdb319dc30a811d212b2
+
+PODFILE CHECKSUM: fc2a8880cf0662c48d71ac23d82d228b4ed4dec4
+
+COCOAPODS: 1.5.3
